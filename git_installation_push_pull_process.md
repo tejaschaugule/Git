@@ -13,7 +13,7 @@ yum install git -y
 Configure Git user details:
 
 git config --global user.name "tejas"
-git config --global user.email "tejaschaugule123@gmail.com"
+git config --global user.email "tejaschaugule#@gmail.com"
 
 Verify configuration:
 
