@@ -33,8 +33,7 @@ git add <file-name>
 git commit -m "Your commit message"
 ```
 - **Note:**
-- Before adding and committing, the new file is **not visible in other branches**.  
-- After committing, the changes exist only in the current branch.
+- Before adding and committing, the new file may exist in your working directory even when you switch to the master branch, but after you add and commit it in your current branch, the file will not appear in the master branch until it is merged
 
 ## 6. Merge Branches
 ```bash
