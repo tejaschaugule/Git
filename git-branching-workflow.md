@@ -32,7 +32,8 @@ git switch <branch-name>
 git add <file-name>
 git commit -m "Your commit message"
 ```
-- **Note:** Before adding and committing, the new file is **not visible in other branches**.  
+- **Note:**
+- Before adding and committing, the new file is **not visible in other branches**.  
 - After committing, the changes exist only in the current branch.
 
 ## 6. Merge Branches
